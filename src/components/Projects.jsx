@@ -30,8 +30,8 @@ import cartapi from '../assets/cartapi.png';
                         </a>
                     </h2>
                     <p>
-                        This is a project built on react which tracks your progess in dsa 
-                        and stores that in the local storage.
+                        
+A simple Todo Application featuring an input field for adding tasks to a list. Users can delete individual tasks and also clear the entire list at once.
                     </p>
                 </div>
             </div>
@@ -55,11 +55,8 @@ import cartapi from '../assets/cartapi.png';
                         </a>
                     </h2>
                     <p>
-                        15 puzzle game is basically a tile-based game in which there are 16 tiles
-                        out of which 1 tile is left empty and the remaining tiles are filled with
-                        numbers from 1 to 15 in random order. The user has to arrange all the tiles 
-                        in numerical order with the rule that they can only move the tile that is 
-                        a direct neighbor of the empty tile.
+                      
+A Cart Application fetching data from an API, showing color images, image links, and titles. Users can select items from a range of 1 to 5000.
                     </p>
                 </div>
             </div>

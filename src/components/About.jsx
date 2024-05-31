@@ -24,7 +24,7 @@ import React from 'react'
         <p>
            My Name is Aman Jaiswal I am from Delhi I am doing my Electronics and Communication Engineering from
            Guru Gobind Singh Indraprastha University Currently in Engineering till 7th Semester My CGPA Score is 
-           8.5 
+           8.5 and I love to Play Cricket and Making Videos on my Youtube Channel.
         </p>
     </div>
 </section>

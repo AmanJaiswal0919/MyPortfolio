@@ -1,7 +1,7 @@
 import React from 'react'
  function Skills() {
  
-    const skills = ["C++","HTML", "CSS ", "Javascript", "Bootstrap & MaterialUI" ,"React", "Figma Design" ,"Node","Express","MongoDB"];
+    const skills = ["C++","HTML", "CSS ", "Javascript", "Bootstrap & MaterialUI" ,"React", "Figma Design" ,"DSA","Node","Express","MongoDB"];
     return (
         <section id="skills"
             className="px-10 w-full my-40 max-w-5xl mx-auto">

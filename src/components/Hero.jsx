@@ -16,9 +16,6 @@ function Hero() {
               My Portfolio Website
             </h2>
           </div>
-          <p className="text-center font-bold">
-          My name is Aman Jaiswal, and I aspire to pursue a career as a Software Developer
-          </p>
         </div>
         <div className="flex-1 justify-center items-center">
           <img src={myphoto}
